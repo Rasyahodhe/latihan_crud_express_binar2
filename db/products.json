@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone X",
+    "price": 10000000,
+    "stock": 1,
+    "description": "Flasgship phone by apple",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S9",
+    "price": 7500000,
+    "stock": 2,
+    "description": "Flasgship phone by Samsung",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "Pixel 2",
+    "price": 8000000,
+    "stock": 2,
+    "description": "Flasgship phone by Google",
+    "brand": "Google"
+  }
+]
